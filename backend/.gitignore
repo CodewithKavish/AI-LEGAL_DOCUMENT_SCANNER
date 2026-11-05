@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# User uploads
+uploads/
+
+# macOS
+.DS_Store
