@@ -1,0 +1,21 @@
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# User uploads
+backend/uploads/
+
+# Node
+node_modules/
+dist/
